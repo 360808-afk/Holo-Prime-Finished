@@ -1186,7 +1186,7 @@ MonoBehaviour:
   _lives: 3
   _score: 0
   _uiManager: {fileID: 832214525}
-  _laserSoundClip: {fileID: 8300000, guid: 75676f361bdfeaf41a46623e95df3dbc, type: 3}
+  _laserSoundClip: {fileID: 8300000, guid: eee326c47732d9e429d36fa307f8ae5e, type: 3}
 --- !u!212 &2077457707
 SpriteRenderer:
   m_ObjectHideFlags: 0
